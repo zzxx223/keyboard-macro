@@ -56,7 +56,7 @@
 
 ### 方式一：使用预编译 EXE（推荐）
 
-从 [Releases](../../releases) 页面下载 `键盘宏.exe`，双击运行即可（会自动请求管理员权限）。
+从 [Releases 页面](https://github.com/zzxx223/keyboard-macro/releases) 下载 `KeyboardMacro.exe`，双击运行即可（会自动请求管理员权限）。
 
 ### 方式二：从源码运行
 
